@@ -34,6 +34,7 @@ export default {
           analyticNumberColor : "#33C6AB",
           analyticsBg: "#242424",
           navbarBg: "#0F0F0F", // Navbar background color
+          footerBg: "#0F0F0F",  // Footer background color
           buttonBg: "#1F1F1F",
           priceCardBg : "#161616",
           pageBg: "#1D1C20", // Main page background color

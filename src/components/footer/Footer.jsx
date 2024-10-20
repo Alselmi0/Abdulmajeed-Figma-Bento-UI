@@ -6,7 +6,7 @@ import NewsletterSection from "./NewsletterSection";
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-100 dark:bg-gray-800 pb-6 text-gray-800 dark:text-white">
+    <footer className="bg-gray-100 dark:bg-dark-footerBg  pb-6 text-gray-800 dark:text-white">
       <div className="container mx-auto grid grid-cols-12 gap-8 pt-20 pb-2 lg:px-28 md:px-12 px-4">
         {/* Left Section: Logo and Socials */}
         <div className="lg:col-span-4 col-span-12">
